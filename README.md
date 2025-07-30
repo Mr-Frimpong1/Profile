@@ -1,15 +1,24 @@
-# Portfolio Website  
-![Preview](assets/preview.jpg) *[Add a screenshot later]*
+# 🎨 Frimpong's Portfolio Website
 
-A responsive portfolio website for [Your Name], showcasing graphic design projects. Built with HTML & CSS.  
+Welcome to the source code for my personal portfolio, designed to showcase my work in graphic design with a responsive, elegant interface. Built with HTML & CSS, and crafted for smooth viewing across devices.
 
-## Features  
-- Clean, modern design  
-- Responsive layout (works on mobile & desktop)  
-- Project grid with hover effects  
-- Easy-to-update sections  
+![Project Preview](assets/preview.jpg)  
+*Screenshot coming soon*
 
-## How to Use  
-1. **Clone this repo**:  
-   ```bash
-   git clone https://github.com/mr-frimpong1/profile.git
+---
+
+## 🔧 Features
+
+- ✅ Responsive layout for desktop & mobile
+- 🎯 Modern grid-based design with hover animations
+- ✏️ Easy content customization
+- 🌐 Minimal, clean UI focused on visuals
+
+---
+
+## 🚀 Getting Started
+
+To run the project locally:
+
+```bash
+git clone https://github.com/mr-frimpong1/profile.git
